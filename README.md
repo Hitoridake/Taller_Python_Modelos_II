@@ -11,7 +11,7 @@ Ejercicios simples:
 
 12. Escribir un programa que calcule el número de horas, minutos y segundos que hay en un valor x de segundos indicados por el usuario:
 
-
+https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ejercicios%20Simples/SecondsToHours.py
 
 13. Escribir un programa que calcule el equivalente en pies de una longitud de x metros sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a un pie:
 
