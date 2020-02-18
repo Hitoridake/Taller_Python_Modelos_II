@@ -9,6 +9,7 @@ https://github.com/apdaza/universidad-ejercicios/blob/master/python/solucion%20g
 
 Ejercicios simples:
 
-14. Escribir un programa que calcule el área de un rectángulo a partir de sus coordenadas x1, y1, x2, y2.
+13. Escribir un programa que calcule el equivalente en pies de una longitud de x metros sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a un pie:
+
 
 
