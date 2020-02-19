@@ -17,6 +17,14 @@ https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ejercicios%20
 
 https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ejercicios%20Simples/MeterToFeet.py
 
+Ejercicios con condicionales
+
+21. Escribir un programa que dado un número del 1 a 7 escriba el correspondiente nombre del
+día de la semana:
+
+
+
+
 
 
 
