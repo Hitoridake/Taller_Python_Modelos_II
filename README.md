@@ -22,6 +22,10 @@ Ejercicios con condicionales
 21. Escribir un programa que dado un número del 1 a 7 escriba el correspondiente nombre del
 día de la semana:
 
+https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Condicionales/NumberToDay.py
+
+25. Escribir un programa que una vez leída una hora en formato (horas, minutos, segundos) indique cual será el tiempo dentro de x segundos transcurridos.
+
 
 
 
