@@ -10,50 +10,50 @@ Ejercicios simples:
 
 12. Escribir un programa que calcule el número de horas, minutos y segundos que hay en un valor x de segundos indicados por el usuario:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ejercicios%20Simples/SecondsToHours.py
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ejercicios%20Simples/SecondsToHours.py)
 
 13. Escribir un programa que calcule el equivalente en pies de una longitud de x metros sabiendo que 1 metro equivale a 39.27 pulgadas y 12 pulgadas equivalen a un pie:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ejercicios%20Simples/MeterToFeet.py
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ejercicios%20Simples/MeterToFeet.py)
 
 Ejercicios con condicionales
 
 21. Escribir un programa que dado un número del 1 a 7 escriba el correspondiente nombre del
 día de la semana:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Condicionales/NumberToDay.py
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Condicionales/NumberToDay.py)
 
 25. Escribir un programa que una vez leída una hora en formato (horas, minutos, segundos) indique cual será el tiempo dentro de x segundos transcurridos:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Condicionales/AddTime
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Condicionales/AddTime)
 
 Ejercicios con ciclos
 
 38. Escribir un programa que detecte si un número es primo o no. Un número es primo si sólo es
 divisible por sí mismo y por la unidad:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ciclos/Primes.py
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ciclos/Primes.py)
 
 40. Escribir un programa que calcule la suma de los cuadrados de los 100 primeros números
 enteros:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ciclos/OneHundredSqrs
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ciclos/OneHundredSqrs)
 
 Ejercicios con colecciones
 
 43. Escribir un programa que llene una lista con los veinte primeros números pares y calcule su suma:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Colecciones/AddPar.py
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Colecciones/AddPar.py)
 
 44. Escribir un programa que solicite cinco números, los almacene en una lista y luego calcule la media aritmética de esos números:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Colecciones/ArMean
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Colecciones/ArMean)
 
 Cadenas de caracteres
 
 56. Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena original y la transformada deben almacenarse de forma independiente:
 
-https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Caracteres/EraseWhite.py
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Caracteres/EraseWhite.py)
 
 58. Escribir un programa que cambie las mayúsculas de una cadena de caracteres a minúsculas y
 viceversa. 
