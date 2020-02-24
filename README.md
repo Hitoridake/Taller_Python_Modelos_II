@@ -1,6 +1,6 @@
 # Taller_Python_Modelos_II
 
-Presentado por: Johan Sebastián Pérez Mejía
+Presentado por: [Johan Sebastián Pérez Mejía](https://github.com/Hitoridake)
 Código: 20161020055
 
 
