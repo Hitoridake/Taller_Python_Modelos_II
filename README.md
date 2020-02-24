@@ -24,7 +24,19 @@ día de la semana:
 
 https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Condicionales/NumberToDay.py
 
-25. Escribir un programa que una vez leída una hora en formato (horas, minutos, segundos) indique cual será el tiempo dentro de x segundos transcurridos.
+25. Escribir un programa que una vez leída una hora en formato (horas, minutos, segundos) indique cual será el tiempo dentro de x segundos transcurridos:
+
+https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Condicionales/AddTime
+
+Ejercicios con ciclos
+
+38. Escribir un programa que detecte si un número es primo o no. Un número es primo si sólo es
+divisible por sí mismo y por la unidad:
+
+https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ciclos/Primes.py
+
+
+
 
 
 
