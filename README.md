@@ -35,7 +35,29 @@ divisible por sí mismo y por la unidad:
 
 https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ciclos/Primes.py
 
+40. Escribir un programa que calcule la suma de los cuadrados de los 100 primeros números
+enteros:
 
+https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Ciclos/OneHundredSqrs
+
+Ejercicios con colecciones
+
+43. Escribir un programa que llene una lista con los veinte primeros números pares y calcule su suma:
+
+https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Colecciones/AddPar.py
+
+44. Escribir un programa que solicite cinco números, los almacene en una lista y luego calcule la media aritmética de esos números:
+
+https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Colecciones/ArMean
+
+Cadenas de caracteres
+
+56. Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena original y la transformada deben almacenarse de forma independiente:
+
+https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Caracteres/EraseWhite.py
+
+58. Escribir un programa que cambie las mayúsculas de una cadena de caracteres a minúsculas y
+viceversa. 
 
 
 
