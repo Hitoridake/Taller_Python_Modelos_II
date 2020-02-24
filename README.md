@@ -59,6 +59,10 @@ enteros:
 58. Escribir un programa que cambie las mayúsculas de una cadena de caracteres a minúsculas y
 viceversa. 
 
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Caracteres/UppToLow.py)
+
+# Funciones y procedimientos
+
 
 
 
