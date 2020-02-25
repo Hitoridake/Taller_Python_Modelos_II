@@ -63,6 +63,23 @@ viceversa.
 
 # Funciones y procedimientos
 
+69. Escribir un programa que, utilizando funciones con parámetros, lea desde el teclado las
+unidades y el precio del producto que quiere comprar, y en función de las unidades
+introducidas le haga un descuento o no (cuando las unidades excedan media docena se
+aplicará 4% y el 10% cuando excedan la docena).
+
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Funciones/Discount.py)
+
+
+70. Escribir un programa que mediante funciones obtenga la distancia entre dos puntos que se
+encuentran en el plano a partir de la lectura de sus coordenadas.
+
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Funciones/Distance.py)
+
+# Recursividad
+
+
+
 
 
 
