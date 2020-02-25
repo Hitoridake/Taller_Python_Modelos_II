@@ -78,6 +78,16 @@ encuentran en el plano a partir de la lectura de sus coordenadas.
 
 # Recursividad
 
+78. Escribir un programa que usando recursividad calcule el producto de dos enteros usando
+sumas sucesivas.
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Recursivos/Product.py)
+
+80. Escribir un programa que mediante funciones recursivas calcule el termino “x” de la serie de
+fibonacci:
+
+[Solución](https://github.com/Hitoridake/Taller_Python_Modelos_II/blob/master/Recursivos/Fibo.py)
+
+# Módulos
 
 
 
